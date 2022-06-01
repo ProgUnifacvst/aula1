@@ -9,8 +9,8 @@
         background: crimson;
     }
 
-    h1{
-        font-family: sans-serif;
+    h1, h2 {
+        font-family: 'verdana';
         font-weight: bold;
         font-size: 3rem;
         color:white;
